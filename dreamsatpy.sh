@@ -252,8 +252,7 @@ echo "#########################################################"
 echo "#     DreamSatPanel $VERSION INSTALLED SUCCESSFULLY          #"
 echo "#                    BY Linuxsat                        #"
 echo "#########################################################"
-echo "#                Restart Enigma2 GUI                    #"
-echo "#########################################################"
+echo 
 sleep 2
 
 exit 
